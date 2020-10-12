@@ -1,10 +1,12 @@
 # The URL the site will be built for
 base_url = "https://caiye.one"
 
-title = "CAIYE 的窝"
+title = "CAIYE 的白板"
 
 # Whether to automatically compile all Sass files in the sass directory
 #compile_sass = true
+
+default_language = "zh-Hans-CN"
 
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -13,6 +15,9 @@ highlight_theme = "ayu-light"
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
+
+generate_feed = true
+feed_filename = "rss.xml"
 
 theme = "anpu"
 taxonomies = [
