@@ -26,4 +26,6 @@ taxonomies = [
 author = "caiye"
 anpu_menu_links = [
     { url = "$BASE_URL/about/", name = "About" },
+    { url = "$BASE_URL/tags/", name = "Tags" },
 ]
+anpu_date_format = "%Y-%m-%d"

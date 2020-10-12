@@ -43,7 +43,7 @@ title = "网站名称"
 
 ## 安装 even 主题
 
-从![官网](https://www.getzola.org/themes/)挑一个看起来顺眼的主题，就决定是 even
+从[官网](https://www.getzola.org/themes/)挑一个看起来顺眼的主题，就决定是 even
 了。按说明需要如下操作。
 
 在博客目录下克隆主题到 `themes/even`：
