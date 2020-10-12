@@ -1,3 +1,6 @@
 [submodule "themes/even"]
 	path = themes/even
 	url = https://github.com/getzola/even.git
+[submodule "themes/anpu"]
+	path = themes/anpu
+	url = https://github.com/zbrox/anpu-zola-theme

@@ -4,7 +4,7 @@ base_url = "https://caiye.one"
 title = "CAIYE 的窝"
 
 # Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
+#compile_sass = true
 
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -14,7 +14,7 @@ highlight_theme = "ayu-light"
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-theme = "even"
+theme = "anpu"
 taxonomies = [
     # You can enable/disable RSS
     {name = "categories", rss = true},
@@ -23,5 +23,7 @@ taxonomies = [
 
 [extra]
 # Put all your custom variables here
-even_title = "CAIYE 的窝"
 author = "caiye"
+anpu_menu_links = [
+    { url = "$BASE_URL/about/", name = "About" },
+]
