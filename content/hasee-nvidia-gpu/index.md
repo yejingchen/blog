@@ -2,7 +2,7 @@
 title = "在 NVIDIA Optimus 笔记本折腾独立显卡"
 date = 2018-05-26 13:23:00+08:00
 [taxonomies]
-categories = ["正文"]
+categories = ["计算机"]
 tags = ["linux", "nvidia"]
 +++
 

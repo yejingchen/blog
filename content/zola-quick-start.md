@@ -2,7 +2,7 @@
 title = "Zola 静态博客快速指南"
 date = 2020-02-24 01:36:56+08:00
 [taxonomies]
-categories = ["正文"]
+categories = ["计算机"]
 tags = ["blog"]
 +++
 

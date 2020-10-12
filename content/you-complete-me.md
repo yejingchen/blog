@@ -2,7 +2,7 @@
 title = "YouCompleteMe 合理配置 Rust 和 ccls"
 date = 2020-10-12 21:56:11+08:00
 [taxonomies]
-categories = ["正文"]
+categories = ["计算机"]
 tags = ["vim", "rust", "c", "c++"]
 +++
 
