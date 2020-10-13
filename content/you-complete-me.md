@@ -123,7 +123,7 @@ rust-analyzer 的安装就没什么复杂的，直接用 `pacman` 或者 Homebre
 名就叫 `rust-analyzer`。如果你用的是 `rustup` 安装的 nightly 工具链，也可以直接
 用 `rustup` 装 rust-analyer。
 
-> ⚠ 注意
+> ⚠注意
 >
 > 下面的步骤手动设置了 Rust LSP，适用于上面提到的任何安装情况。但如果你的工具链
 > 和 rust-analyzer是用同一种方式装的（如**都是** `rustup` 或**都是**系统包管理
